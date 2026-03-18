@@ -5,6 +5,8 @@
 
 #- Quais são as regras para aplicar no CSS?
 #   - Como serão os nomes?
+    paleta de cores:
+      ## https://color.adobe.com/pt/search?q=historia
 #    - Vai usar alguma pattern CSS? Consulte na net sobre BEM CSS.
 #   - Serão utilizadas as cores com qual nomeclatura? hexadecimal, nome das cores, hsl, rgb, rgba? Leia a página abaixo. Basta traduzir.
 #   - Será utilizado :root{ }?
